@@ -1,3 +1,1 @@
- # Not Uygulaması
-
-Bu repo ders notlarımı içerir.
+Gelistirici: Onur Keskinkurt (main versiyonu)
