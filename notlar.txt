@@ -1,0 +1,5 @@
+ls: Klasördeki dosyaları listeler
+cd: Klasörler arası geçiş yapar
+pwd: Bulunulan mevcut konumu gösterir
+mkdir: Yeni klasör oluşturur
+rm: Dosya veya klasör siler
