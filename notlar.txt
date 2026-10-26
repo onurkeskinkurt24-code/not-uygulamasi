@@ -3,3 +3,6 @@ cd: Klasörler arası geçiş yapar
 pwd: Bulunulan mevcut konumu gösterir
 mkdir: Yeni klasör oluşturur
 rm: Dosya veya klasör siler
+git init: Yeni bir Git reposu başlatır
+git add: Değişiklikleri staging area'ya ekler
+git commit: Değişiklikleri kaydeder
