@@ -1,1 +1,1 @@
-Gelistirici: Onur Keskinkurt (main versiyonu)
+GELİSTİRİCİ: Onur Keskinkurt
